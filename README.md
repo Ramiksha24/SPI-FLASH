@@ -31,7 +31,7 @@ The controller consists of:
 - Central FSM for command sequencing
 - Busy polling and timeout logic
 
-![Block Diagram](Block%20Diagram.png)
+![Block Diagram](Images/Block Diagram.png)
 
 ---
 
